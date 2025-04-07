@@ -14,7 +14,7 @@ import os
 
 ##################################################
 
-path_inp = '/Volumes/Data/raw/GOODS_ALMA_project/analysis/'
+path_inp = '/Volumes/Data/raw/GOODS_ALMA_project/uv_pointings/'
 myvisbase = 'GOODS_av_'
 field_ini = 4
 field_fin = 1703
