@@ -1,4 +1,3 @@
-# CHECK BEFORE RUN
 from astropy.io import fits
 from photutils import CircularAperture, CircularAnnulus, aperture_photometry
 from astropy.wcs import WCS
